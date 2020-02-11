@@ -1,0 +1,12 @@
+{
+  "name": "dmst-wettbewerbsordnung",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Wettbewerbsordnung der Deutsche Meisterschaft im Streckensegelflug",
+  "repository": "git@github.com:buko-sf/dmst-wettbewerbsordnung.git",
+  "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
+  "devDependencies": {
+    "marked": "^0.8.0",
+    "normalize.css": "^8.0.1"
+  }
+}

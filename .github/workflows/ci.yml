@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request: {}
+  schedule:
+    - cron:  '0 3 * * *' # daily, at 3am
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      - name: install dependencies
+        run: yarn install
+
+      - name: generate HTML page
+        run: node convert-to-html.js
