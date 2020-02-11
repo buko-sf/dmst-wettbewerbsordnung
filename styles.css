@@ -1,0 +1,49 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+@media screen {
+  body {
+    padding: 50px;
+  }
+}
+
+@media screen and (min-width: 840px) {
+  html {
+    background: #fcffff;
+  }
+
+  body {
+    max-width: 700px;
+    margin: 50px auto;
+
+    background: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0 5px 20px 5px;
+  }
+}
+
+@page {
+  size: A4 portrait;
+  margin: 60pt 50pt 40pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Domine', serif;
+  font-weight: 400;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 2.5em;
+}
+
+p, li {
+  line-height: 1.65em;
+  hyphens: auto;
+}
+
+b, strong {
+  font-weight: 900;
+}
