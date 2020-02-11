@@ -1,5 +1,7 @@
 # DMSt-Wettbewerbsordnung
 
+<img src="logo.jpg" width="300">
+
 **Deutsche Meisterschaft im Streckensegelflug**
 
 **Deutscher Aero Club e.V.**
