@@ -19,3 +19,7 @@ function run() {
 }
 
 run();
+
+if (process.argv.includes('--watch')) {
+  setInterval(run, 1000);
+}
