@@ -1,7 +1,9 @@
 const fs = require('fs');
+const url = require('url');
 const marked = require('marked');
+const puppeteer = require('puppeteer');
 
-function run() {
+function build_html() {
   if (!fs.existsSync('output')) {
     fs.mkdirSync('output');
   }
@@ -18,8 +20,34 @@ function run() {
   fs.copyFileSync('logo.jpg', 'output/logo.jpg');
 }
 
-run();
+async function run() {
+  let browser = await puppeteer.launch();
+  try {
+    let page = await browser.newPage();
 
-if (process.argv.includes('--watch')) {
-  setInterval(run, 1000);
+    async function build() {
+      build_html();
+      await page.goto(url.pathToFileURL('output/rules.html'), { waitUntil: 'networkidle0' });
+      await page.pdf({ path: 'output/rules.pdf', preferCSSPageSize: true });
+    }
+
+    await build();
+
+    if (process.argv.includes('--watch')) {
+      while (true) {
+        await timeout(1000);
+        await build();
+      }
+    }
+  } finally {
+    await browser.close();
+  }
 }
+
+function timeout(delay) {
+  return new Promise(resolve => setTimeout(resolve, delay));
+}
+
+run().catch(error => {
+  console.error(error);
+});
