@@ -23,3 +23,8 @@ jobs:
 
       - name: build assets
         run: node build.js
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: DMSt-Wettbewerbsordnung
+          path: output/
