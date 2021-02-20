@@ -1,241 +1,216 @@
 # DMSt-Wettbewerbsordnung
 
-<img src="logo.jpg" width="300">
-
-**Deutsche Meisterschaft im Streckensegelflug**
-
 **Deutscher Aero Club e.V.**
 
-Stand: Februar 2019
+<img src="logo.jpg" alt="dmst" width="200"/>
 
-## 1. Allgemeine Regeln
+## 1 Allgemeine Regeln
 
 ### 1.1 Zweck der DMSt
 
-Förderung des Streckensegelfluges und des Leistungssegelflieger-Nachwuchses in
-den Segelfluggruppen des DAeC. Ermittlung der Deutschen Meister im
-Streckensegelflug.
+Förderung des Streckensegelfluges und des Leistungssegelflieger\*innen-Nachwuchses in den im DAeC organisierten Luftsportvereinen und Monoluftsportverbänden.
+Ermittlung der Deutschen Meisterin / des Deutschen Meisters im Streckensegelflug.
 
 ### 1.2 Veranstalter
 
-Veranstalter ist die Bundeskommission (Buko) Segelflug im DAeC in Zusammenarbeit
-mit den Segelflugkommissionen der Landesverbände.
+Veranstalter ist die Bundeskommission (Buko) Segelflug des DAeC in Zusammenarbeit mit den Segelflugkommissionen der Landesverbände und den Monoluftsportverbänden des DAeC.
 
 ### 1.3 Termin und Ort der Meisterschaft
 
-Die Meisterschaft findet jeweils im Zeitraum vom 1. März bis zum 30. September
-statt. Es werden nur Flüge gewertet, die in diesem Zeitraum durchgeführt
-werden. Die DMSt wird dezentral durchgeführt.
+Die DMSt findet im Wertungszeitraum vom 1. März 2021 bis zum 30. September 2021 statt. In den Folgejahren ist der DMSt Wertungszeitraum vom 1. Oktober bis 30. September definiert. Es werden nur Flüge gewertet, die in diesem Wertungszeitraum durchgeführt werden.
+Die DMSt wird dezentral durchgeführt.
 
-### 1.4 Bewerber und Teilnehmer
+### 1.4 Vereine und Teilnehmende
 
-Bewerber können alle Luftsportvereine sein, die einem Landesverband des DAeC als
-Mitglied angehören. Teilnehmer können Segelflugzeugführer/-innen sein, die
-aktives Mitglied des Bewerbers sind. Jeder Teilnehmer darf nur für einen
-einzigen Bewerber,über den er die mittelbare und stimmberechtigte Mitgliedschaft
-in einem DAeC-Landesverband besitzt, teilnehmen. Mit dem ersten gemeldeten
-Fluglegt der Teilnehmer fest, für welchen Bewerber und Landesverband er in
-diesem Austragungsjahr teilnimmt.
+Teilnehmende Vereine können Luftsportvereine sein, die einem Landesverband des DAeC oder einem Monoluftsportverband als Mitglied angehören. Teilnehmende können Segelflugzeugführer\*innen sein, die ordentliches Mitglied eines teilnehmenden Vereins, eines Luftsportverbandes, eines Monoluftsportverbandes oder des DAeC sind. Teilnehmende dürfen in einem Wertungszeitraum nur für einen teilnehmenden Verein melden. Mit dem ersten gemeldeten Flug legen die Teilnehmenden fest, für welchen Verein und Landesverband sie in diesem Wertungszeitraum teilnehmen.
+Teilnehmende gelten dann als Junior\*innen, wenn deren 25. Geburtstag in dem Wertungszeitraum liegt oder sie jünger sind.
 
 ### 1.5 Regeln
 
-Die Sorgfaltspflicht für die Einhaltung der gesetzlichen und behördlichen
-Bestimmungen, sowie der sonstigen für den Segelflug anzuwendenden Vorschriften
-und Empfehlungen liegen beim Teilnehmer. Bzgl. der Festlegung von SR und SS und
-der damit in Zusammenhang stehenden Zeiten sind die Angaben der Seite
-<www.datum-und-uhrzeit.de> verbindlich. Für die Anlage und Durchführung der
-Wertungsflüge gilt der SportingCode, soweit keine davon abweichenden Regelungen
-in dieser DMSt-Wettbewerbsordnung enthalten sind. Das Geodätische Datum WGS84
-muss für alle Breiten-und Längendaten gesetzt werden. Für die Ermittlung der
-Strecken auf Basis der gemessenen Koordinaten wird als "Erdmodell" eine Kugel
-mit dem Radius von 6.371,0 km verwendet. Die Meldungen über Wertungsflüge sind
-online einzureichen.
+Die Sorgfaltspflichten für die Einhaltung der gesetzlichen und behördlichen Bestimmungen, sowie der sonstigen für den Segelflug anzuwendenden Vorschriften und Empfehlungen liegen bei den Teilnehmenden.
+Bezüglich der Festlegung von SR und SS und der damit in Zusammenhang stehenden Zeiten sind die Angaben bürgerlichen Dämmerungszeiten (SERA) auf der Seite [Datum und Uhrzeit](http://www.datum-und-uhrzeit.de) verbindlich.
+
+Für die Anlage und Durchführung der Wertungsflüge gilt der Sporting Code, soweit keine davon abweichenden Regelungen in dieser DMSt-Wettbewerbsordnung enthalten sind.
+Die Entfernungsberechnung erfolgt auf Basis des WGS84-Ellipsoids ([Vincenty’s Formel](https://en.wikipedia.org/wiki/Vincenty%27s_formulae)).
+In den Wertungen werden ausschließlich Flüge mit Beginn des freien Fluges oder Abflugpunkt in Deutschland berücksichtigt.
+Die Meldungen über Wertungsflüge sind online einzureichen über die Segelflug Online-Plattform weglide.org.
 
 ### 1.6 Meldung zur Meisterschaft
 
-Der erste eingereichte Antrag auf Wertung eines Teilnehmers gilt als Meldung zur
-Meisterschaft. Damit erkennt der Teilnehmer die DMSt-Regeln unter Ausschluss des
-Rechtsweges an. Insbesondere willigt er in die Erhebung, Verarbeitung und
-Nutzung seiner personenbezogenen Daten im Rahmen der Auswertung und der
-Veröffentlichung der Flugdaten bei Erfassung der Daten durch ein von der BuKo
-Segelflug beauftragtes Unternehmen ein.
+Der erste eingereichte Antrag auf Wertung eines Teilnehmenden gilt als Meldung zur Meisterschaft. Damit erkennt der Teilnehmende die DMSt-Regeln unter Ausschluss des Rechtsweges an. Mit dem Antrag auf Wertung erfolgt die Erhebung, Verarbeitung und Nutzung personenbezogener Daten des Teilnehmenden im Rahmen der Auswertung und der Veröffentlichung der Flugdaten. Es gelten die auf der für die Meldung der Flüge zu verwendender Internetplattform WeGlide einsehbaren Hinweise zum [Datenschutz](https://docs.weglide.org/docs/legal/privacy_policy/).
 
 ### 1.7 Verstöße
 
-Bewerber und Teilnehmer, die durch unwahre Angaben und unlautere Methoden
-Vorteile in der Wertung zu erringen suchen, werden für die aktuelle DMSt
-disqualifiziert. Bei vorsätzlichen Verstößen gegen die DMSt-Regeln wird eine
-Sperre von 5 Jahren verhängt und der Name des Betreffenden veröffentlicht. Im
-Wiederholungsfall beträgt die Sperre 10 Jahre. Den Landesverbänden bleiben in
-diesen Fällen weitere Maßnahmen vorbehalten.
+Teilnehmende Vereine und Personen, die durch unwahre Angaben oder unlautere Methoden Vorteile in der Wertung zu erringen suchen, können für die aktuelle DMSt disqualifiziert werden. Bei vorsätzlichen Verstößen gegen die DMSt-Regeln wird eine Sperre von 5 Jahren verhängt und der Name der betroffenen Person / des betroffenen Vereins veröffentlicht. Im Wiederholungsfall beträgt die Sperre 10 Jahre. Den Landesverbänden bleiben in diesen Fällen weitere Maßnahmen vorbehalten.
 
-### 1.8 Siegerehrung
+### 1.8 Einspruch
 
-DieBekanntgabe und Veröffentlichung der Sieger der DMSt des jeweiligen
-Austragungsjahres, sowie die Siegerehrung erfolgen beim nachfolgenden Deutschen
-Segelfliegertag.
+Einsprüche zu Wertungen sind an die/den von der Buko Segelflug für die DMSt eingesetzten DAeC Sportleiter\*in zu richten, die/der zusammen mit der/dem Vorsitzenden des RS/B entscheidet.
+Ein Einspruch muss spätestens 48 Stunden nach der Wertung des Fluges an dmst@segelflug.aero erfolgen.
+Ein Beschluss zu einem Einspruch soll zeitnah, spätestens jedoch bis zum 10. Oktober nach Ende des Wertungszeitraumes erfolgen.
 
-## 2. Wertungsklassen
+### 1.9 Siegerehrung
 
-Jeder Teilnehmer kann beliebig viele Flüge zur Wertung anmelden. Die Wertung
-eines Fluges erfolgt in der Klasse, die dem geflogenen Flugzeugmuster entspricht
-und in die es in der gültigen DAeC-Indexliste eingeordnet ist. Alle Flugzeuge
-bis einschließlich Index 106 können auch in der Clubklasse gewertet
-werden. Flugzeuge der Clubklasse können mit variablem Ballast gemäß Flug- und
-Betriebshandbuch geflogen werden. Hat ein Teilnehmer Flüge auf Flugzeugen
-verschiedener Klassen gemeldet, wird er in jeder dieser Klassen bzw. Wertungen
-gewertet. Bei Flügen mit Doppelsitzern zählt als Teilnehmer nur der Pilot. Alle
-Flüge werden mit dem Index des Flugzeuges entsprechend der jeweils gültigen
-DAeC-Index-Liste bewertet.
+Die Bekanntgabe und Veröffentlichung der Sieger\*innnen der DMSt des jeweiligen Wertungszeitraumes, sowie die Siegerehrung erfolgen beim nachfolgenden Deutschen Segelfliegertag.
 
-### 2.1 Einzelwertungen
+## 2 Wertungen
 
-Sieger in Einzelwertungen werden in folgenden Klassen ermittelt:
+Teilnehmende können beliebig viele Flüge zur Wertung anmelden.
+Die Wertung eines Fluges erfolgt in der Klasse, die dem geflogenen Flugzeugmuster in der gültigen DAeC-Indexliste zugeordnet ist. Alle Flugzeuge bis einschließlich Index 106 können auch in der Clubklasse gewertet werden.
+Flugzeuge der Clubklasse können mit variablem Ballast gemäß Flug- und Betriebshandbuch geflogen werden. Haben Teilnehmende Flüge auf Flugzeugen verschiedener Klassen gemeldet, werden sie in jeder dieser Klassen bzw. Wertungen gewertet.
 
-- Offene Klasse
-- 18m-Klasse
-- 15m-Klasse
-- Standardklasse
-- Clubklasse
-- Doppelsitzerklasse
+Flüge in Doppelsitzern werden auch in der Frauen oder Junior\*innen Wertung ([2.2.1.1](#distance_women), [2.2.1.2](#distance_junior), [2.2.2.1](#speed_women), [2.2.2.2](#speed_junior)) berücksichtigt, wenn auch die/der Co-Pilot\*in Frau oder Junior\*in ist, oder wenn die Doppelsitzer einsitzig geflogen werden. Der einsitzige Doppelsitzerflug ist bei der online Flugeinreichung zu bestätigen.
+Alle Flüge werden mit dem Index des Flugzeuges entsprechend der jeweils gültigen DAeC-Index-Liste bewertet.
 
-Einzelsieger in der jeweiligen Wertung ist der Teilnehmer mit der höchsten
-Punktzahl aus drei Flügen in dieser Klasse mit Beginn des freien Fluges oder
-Abflugpunktin Deutschland.
+### <a name="classes"></a> 2.1 Klassen-Streckenwertung
 
-### 2.2 Einzelwertung Frauen
+Sieger\*innen in den Streckenwertungen werden in folgenden Klassen ermittelt:
 
-Die in den Einzelwertungen (außer Offene- und Doppelsitzerklasse) gewerteten
-Flüge von Teilnehmerinnen mit Beginn des freien Fluges oder Abflugpunkt in
-Deutschland werden zusätzlich in einer Sonderwertung Frauen zusammengefasst.
+* Offene-Klasse
+* 18m-Klasse
+* 15m-Klasse
+* Standard-Klasse
+* Club-Klasse
+* Doppelsitzer-Klasse
+
+Sieger\*in in der jeweiligen Klasse ist die/der Teilnehmende mit der höchsten Punktzahl aus drei Flügen in dieser Klasse.
+
+### 2.2 DMSt Ranglisten
+
+#### 2.2.1 <a name="distance"></a> Rangliste Streckenwertung
+
+In einer Rangliste Streckenwertung ([4.1](#distance_scoring)) werden die drei punkthöchsten Streckenflüge von Teilnehmenden aus den Einzelwertungen nach [2.1](#classes) berücksichtigt.
+
+##### <a name="distance_women"></a> 2.2.1.1 Rangliste Streckenwertung Frauen
+
+Die gewerteten Streckenflüge von Frauen werden zusätzlich in einer Rangliste Streckenwertung Frauen zusammengefasst.
 Einzelsiegerin ist die Teilnehmerin mit der höchsten Punktzahl aus drei Flügen.
 
-### 2.3 Einzelwertung Junioren
+##### <a name="distance_junior"></a> 2.2.1.2 Rangliste Streckenwertung Junior\*innen
 
-Die in der Club- und in der Standardklasse gewerteten Flüge von Teilnehmern
-deren 25. Geburtstag in dem Kalenderjahr der Austragung liegt oder die jünger
-sind, werden zusätzlich in der Juniorenwertung Club- bzw. Standardklasse
-gewertet. Einzelsieger in der jeweiligen Wertung ist der Teilnehmer mit der
-höchsten Punktzahl aus drei Flügen in dieser Klasse mit Beginn des freien Fluges
-oder Abflugpunkt in Deutschland.
+Die gewerteten Streckenflüge von Junior\*innen werden zusätzlich in der Rangliste Streckenwertung Junior\*innen zusammengefasst.
+Einzelsieger\*in ist die/der Teilnehmende mit der höchsten Punktzahl aus drei Flügen.
 
-### 2.4 Internationale Mannschaftswertung Junioren
+#### 2.2.2 Rangliste Geschwindigkeitswertung
 
-Drei Teilnehmer eines Vereines, deren 25. Geburtstag in dem Kalenderjahr der
-Austragung liegt oder die jünger sind, bilden mit ihrem punkthöchsten Flug aus
-allen Wertungen (außer Offene und Doppelsitzer-Klasse) eine Junioren-Mannschaft.
-Mannschaftssiegerist der Bewerber mit der höchsten Punktzahl seiner Mannschaft.
+In einer Rangliste Geschwindigkeitswertung werden die drei punkthöchsten Geschwindigkeitsflüge (siehe [4.2](#speed_scoring)) von Teilnehmenden aus den Klassen nach [2.1](#classes) berücksichtigt.
 
-### 2.5 Vereinswertung
+##### <a name="speed_women"></a> 2.2.2.1 Rangliste Geschwindigkeitswertung Frauen
 
-Alle anerkannten Wertungspunkte aller Teilnehmer eines Vereins werden
-aufsummiert. Sieger ist der Bewerber mit der höchsten Punktzahl.
+Die gewerteten Geschwindigkeitspunkte von Teilnehmerinnen werden zusätzlich in einer Rangliste Geschwindigkeitswertung Frauen zusammengefasst.
+Einzelsiegerin ist die Teilnehmerin mit der höchsten Punktzahl aus drei Flügen.
 
-### 2.6 DMSt-Rangliste
+##### <a name="speed_junior"></a> 2.2.2.2 Rangliste Geschwindigkeitswertung Junior\*innen
 
-In einer Rangliste werden die drei punkthöchsten Flüge eines Teilnehmers aus den
-Klassen nach 2.1 berücksichtigt.
+Die gewerteten Geschwindigkeitspunkten von Junior\*innen werden zusätzlich in der Rangliste Geschwindigkeitswertung Junior\*innen zusammengefasst.
+Einzelsieger\*in ist die/der Teilnehmende mit der höchsten Punktzahl aus drei Flügen.
 
-## 3. Flugbeurkundung und -meldung
+### 2.3 Teamstreckenwertung
 
-Die Beurkundung der Flüge ist nur mit IGC zugelassenen GNSS-Flugrekordern
-möglich. Abweichende Verfahren werden mit dieser WO und ggf. auf der
-DAeC-Homepage veröffentlicht. Die letzte gültige Fluganmeldung (C-Rekord) vor
-dem eigentlichen Flug zählt. Die IGC-Datei muss mit einer gültigen Signatur
-versehen sein (G-Rekord). Dies schließt ein, dass diese Datei mit
-standardisierten Verfahren validiert werden kann. Die Verantwortung für die
-ordnungsgemäße Beurkundung liegt beim Teilnehmer. Sind längere Ausfälle in der
-Flugaufzeichnung (siehe SportingCode 3) zu sehen, wird der Flug nur gewertet,
-wenn ein ununterbrochener Höhenschrieb und eine ordnungsgemäße Beurkundung der
-Koordinaten nachgewiesen werden. Durch die Meldung seines Fluges erklärt sich
-der Teilnehmer mit der Veröffentlichung seiner Flugdateien einverstanden. Die
-Nutzungsrechte der Flugdaten liegen beim DAeC und dessen Vertragspartner. Alle
-Dateien sind spätestens am dem auf den Flug folgenden Dienstag, 24.00 Uhr,
-online zu melden.
+Drei Teilnehmende eines teilnehmenden Vereines bilden mit ihrem punkthöchsten Streckenflug aus der Rangliste Streckenwertung gemäß [2.2.1](#distance) ein Team. Mehrere Teams pro Verein sind möglich. Teamsieger ist der teilnehmende Verein mit der höchsten Punktzahl seines Teams.
 
-## 4. Wertungsflüge und -verfahren
+#### 2.3.1 Teamstreckenwertung Junior\*innen
 
-### 4.1 Wertungsflüge
+Drei Teilnehmende eines teilnehmenden Vereines bilden mit ihrem punkthöchsten Flug aus der Rangliste Streckenflug Junior\*innen gemäß [2.2.1.2](#distance_junior) ein Junior\*innen-Team. Teamsieger ist der teilnehmende Verein mit der höchsten Punktzahl seines Junior\*innen-Teams.
 
-Es können Strecken von einem Abflugpunkt über bis zu drei Wendepunkte (beim
-DMSt-Viereck max. 4 WP) zu einem Endpunkt gewertet werden. Die Höhendifferenz
-des Luftfahrzeuges zwischen Abflugpunkt bzw. Beginn des freien Fluges und
-Endpunkt bzw. Ende des freien Flugesdarf max. 1000m betragen.
+### 2.4 DMSt Bundesliga
 
-### 4.2 Punktbewertung
+Die DMSt Bundesliga findet an allen Wochenenden zwischen dem 1. Mai 2021 und 22. August 2021 statt. Jedes Wochenende bildet dabei eine Runde.
+Das Rundenergebnis des jeweiligen teilnehmenden Vereins an einem Wochenende berechnet sich als Summe aus:
+den drei besten Ergebnissen von verschiedenen Teilnehmenden aus der Streckenwertung nach [4.1](#distance_scoring) gewichtet mit 10%
+den drei besten Ergebnissen von verschiedenen Teilnehmenden aus der Geschwindigkeitswertung nach [4.2](#speed_scoring) gewichtet mit 100%
+Die Teilnehmenden aus der Strecken- und Geschwindigkeitswertung können identisch sein.
+Sieger der DMSt Bundesliga ist der teilnehmende Verein mit der höchsten Punktzahl.
 
-Jeder Kilometer wird mit einem Punktgewertet. Die Punktzahl für die
-Wertungsflüge ergibt sich als das Hundertfache der Wertungsstrecke geteilt durch
-den Index des jeweiligen Flugzeuges zzgl. Summe der möglichen Boni. In der DMSt
-werden nur Streckensegelflüge mit mindestens 50 Punkten gewertet.
+## 3 Flugbeurkundung und –meldung
 
-### 4.3 Bonusregelungen
+Die Beurkundung der Flüge ist nur mit IGC zugelassenen GNSS-Flugrekordern oder mit Positionsrekorder mit DAeC Zulassung (derzeit: Flarm ohne IGC-Zulassung und FlyWithCE) möglich.
+Streckenflugaufgaben können online oder über einen GNSS Flugrekorder angemeldet werden:
+Bei GNSS Flugrekordern gilt die letzte gültige Deklaration (C-Rekord im Flugrekorder) vor dem eigentlichen Flug.
 
-#### 4.3.1 Dreiecksflug
+Die Online Deklaration erfolgt über den Ausrichter der DMSt. Liegt eine Online-Deklaration vor, so ist die Deklaration im GNSS-Flugrekorder oder im Positionsrekorder nichtig. Die Online-Deklaration ist nur gültig, wenn sie
+vor dem Start erfolgt und
+nach dem Start bis zur Meldung des Fluges keine andere Online-Deklaration erfolgt.
+Die IGC-Datei muss mit einer gültigen Signatur versehen sein (G-Rekord). Dies schließt ein, dass diese Datei mit standardisierten Verfahren validiert werden kann.
 
-Bei einem geschlossenen FAI-Dreiecksflug wird ein Bonus von 40% addiert, wenn:
+Die Verantwortung für die ordnungsgemäße Beurkundung liegt beim Teilnehmenden.
+Ein Flug wird nur gewertet, wenn der Flug vom Abflug- zum Endpunkt ohne Motorunterstützung durchgeführt wurde und ein ununterbrochener Höhenschrieb sowie eine ordnungsgemäße Beurkundung des Flugweges vom Start bis zur Landung nachgewiesen werden. Bei Benutzung einer Motorunterstützung zwischen Abflug und Erreichen des End-punktes wird der Flug nur bis zur letzten, nachweislich ohne Antriebsunterstützung erreichten, Koordinate gewertet.
 
-a. der kürzeste Schenkel mindestens 28% der Gesamtstrecke beträgt, oder
+Das Intervall zwischen zwei Aufzeichnungspunkten soll vier Sekunden nicht überschreiten. Sofern technische Probleme auftreten, werden Ausfälle in der Flugaufzeichnung von maximal 120 Sekunden toleriert.
+Die Flüge sind spätestens bis 12 Uhr (lokal) auf den Flug folgenden übernächsten Tag online zu melden.
 
-b. bei einer Wertungsstrecke von 500km oder mehr, der kürzeste Schenkel
-   mindestens 25% und der längste Schenkel höchstens 45% der Gesamtstrecke
-   betragen.
+## 4 Wertungsflüge und -verfahren
 
-Bei FAI-Dreiecksflügen wird die Strecke zwischen den drei Wendepunkten als
-Wertungsstrecke gewertet. Der Abflugpunkt kann dabei zwischen zwei Eckpunkten
-des Dreiecks liegen. Abflug- und Endpunkt müssen identisch sein.
+In der DMSt können sowohl für Strecken und Geschwindigkeitswertungen Punkte erflogen werden. Als Mindestwertung gilt für die Streckenwertung 50 Punkte und für die Geschwindigkeitswertung 25 Punkte.
 
-#### 4.3.2 Vierecksflug
+### <a name="distance_scoring"></a> 4.1 Streckenwertung
 
-Bei einem geschlossenen angemeldeten DMSt-Vierecksflug wird ein Bonus von 70%
-addiert, wenn die Fläche zwischen den Wendepunkten bzw. den Wendepunkten und dem
-Abflug-/Endpunkt durch zwei Dreiecke beschrieben werden kann, für die gilt:
+Es können Strecken von einem Abflugpunkt über bis zu drei Wendepunkte (beim Vierecksflug maximal vier Wendepunkte und bei Mehrfachumrundungen maximal zwölf Wendepunkte) zu einem Endpunkt gewertet werden.
+Die Höhendifferenz zwischen dem niedrigsten möglichen Abflugpunkt und dem höchsten möglichen Endpunkt darf maximal 1000m betragen.
 
-a. beide Dreiecke müssen dieselbe Forderung nach 4.3.1a bzw. 4.3.1b erfüllen,
+#### <a name="declared_scoring"></a> 4.1.1 Angemeldete Flüge
 
-b. die Dreiecke müssen mit einem identischen Schenkel aneinander liegen,
+Bei einem angemeldeten Flug müssen alle Zielpunkte des Fluges (Abflug-, Wende- und Endpunkt) über die Angabe ihrer geografischen Koordinaten vor dem Start als Flugaufgabe im Flugrekorder oder über die Online Deklaration eindeutig und in der vorgegebenen Reihenfolge festgelegt werden. Abflug- und Endpunkt müssen identisch sein.
+Ein Flug mit unterschiedlichen Flugaufgaben in verschiedenen Flug- oder Positionsrekordern ist nicht zulässig und wird als vorsätzlicher Verstoß gegen die DMSt- Regeln gewertet.
+Die Zielpunkte sind in der vorgesehenen Reihenfolge anzufliegen und zu dokumentieren.
 
-c. die Dreiecke dürfen nicht übereinander liegen.
+#### 4.1.2 Freie Flüge
 
-Die Wertungsstrecke bei Vierecksflügenist der Umfang des Vierecks. Der
-Abflugpunkt kann dabei zwischen zwei Eckpunkten des Vierecks liegen. Abflug- und
-Endpunkt müssen identisch sein.
+Bei nicht angemeldeten, sogenannten „freien“ Flügen, werden als Abflug- Wende- und Endpunkt nur aufgezeichnete Koordinaten des Flugweges gewertet.
+Freie Flüge gelten als geschlossen, wenn Abflug- und Endpunkt nicht mehr als 1km voneinander entfernt sind.
+Freie Flüge sind nur über maximal drei Wendepunkte möglich.
 
-#### 4.3.3 Bonus für angemeldete Flüge
+#### <a name="documentation"></a> 4.1.3 Dokumentation von Abflug-, Endpunkt und Wendepunkte
 
-Wird durch die Flugaufzeichnung die vor dem Flug ins Gerät eingegebenen
-Flugaufgabe entsprechend 4.4 dokumentiert, wird ein Bonus von 30% addiert.
-Hiervon ist das DMSt-Viereck ausgenommen, da es schon 70% Bonus bekommt!
+Wendepunkte gelten als positiv umrundet, wenn der Einflug in den 90° Sektor (gemäß Sporting Code) nachgewiesen wurde. Abflug- und Endpunkt gelten als positiv umrundet, wenn der Einflug in einen Kreis mit einem Radius von 1km um den Abflug-/Endpunkt nachgewiesen wurde.
 
-### 4.4 Deklarieren der Flugaufgabe
+#### 4.1.4 Punktbewertung
 
-Bei einem angemeldeten Flug müssen alle Zielpunkte des Fluges (Abflug-, Wende-
-und Endpunkt) über die Angabe ihrer geografischen Koordinaten vor dem Start als
-Flugaufgabe im Flugrekorder eindeutig festgelegt werden. Ein Flug mit mehreren
-Flugaufgaben ist nicht zulässig und wird als vorsätzlicher Verstoß gegen die
-DMSt-Regeln gewertet. Die Zielpunkte sind in der vorgesehenen Reihenfolge
-anzufliegen und zu dokumentieren.
+Die Punktzahl für Wertungsflüge ergibt sich aus der Wertungsstrecke in Kilometer (km), zuzüglich der Summe der möglichen Boni auf die Wertungsstrecke, geteilt durch den Index/100 des jeweiligen Flugzeuges.
 
-### 4.5 Dokumentation der Zielpunkte
+#### 4.1.5 Bonusregelungen
 
-Wendepunkte gelten als positiv umrundet, wenn der Einflug in den 90° Sektor
-(gem. Sporting Code) nachgewiesen wurde. Abflug- und Endpunkt gelten als positiv
-umrundet, wenn der Einflug in einen Kreis mit einem Radius von 1km um den
-Abflug-/Endpunkt nachgewiesen wurde. Bei nicht ordnungsgemäßer
-Wendepunktumrundung (auch Abflug-/Endpunkt) entfällt der Bonus für angemeldete
-Flüge. Bei "freien" Flügen werden als Abflug-, Wende- und Endpunkt nur
-aufgezeichnete Koordinaten des Flugweges gewertet. Freie Flüge gelten als
-geschlossen, wenn Abflug-und Endpunkt nicht mehr als 1 km voneinander entfernt
-sind.
+Angemeldete Aufgaben, die gemäß [4.1.3](#documentation) erfolgreich dokumentiert sind, erhalten einen Bonus von 30%.
+
+##### <a name="triangle"></a> 4.1.5.1 Dreiecksflug
+
+Bei einem geschlossenen Dreiecksflug wird ein zusätzlicher Bonus von 40% addiert, wenn
+
+1. <a name="short_triangle"></a></a> der kürzeste Schenkel mindestens 28% der Gesamtstrecke beträgt, oder
+2. <a name="big_triangle"></a></a> bei einer Wertungsstrecke von 500km oder mehr, der kürzeste Schenkel mindestens 25% und der längste Schenkel höchstens 45% der Gesamtstrecke betragen.
+
+Bei Dreiecksflügen wird die Strecke zwischen den drei Wendepunkten als Wertungsstrecke gewertet. Der Abflugpunkt kann dabei zwischen zwei Eckpunkten des Dreiecks liegen.
+
+##### <a name="rectangle"></a>4.1.5.2 Vierecksflug
+
+Bei einem geschlossenen DMSt-Vierecksflug wird ein zusätzlicher Bonus von 40% addiert, wenn die Fläche zwischen den Wendepunkten bzw. den Wendepunkten und dem Abflug-/Endpunkt durch zwei Dreiecke beschrieben werden kann, für die gilt:
+
+* beide Dreiecke müssen dieselbe Forderung nach [4.1.5.1.1](#short_triangle) bzw. [4.1.5.1.2](#big_triangle) erfüllen
+* die Dreiecke müssen mit einem identischen Schenkel aneinander liegen
+* die Dreiecke dürfen nicht übereinanderliegen
+
+Die Wertungsstrecke bei Vierecksflügen ist der Umfang des Vierecks. Der Abflugpunkt kann dabei zwischen zwei Eckpunkten des Vierecks liegen.
+Freie Vierecksflüge sind nicht für die Wertung zugelassen.
+
+##### 4.1.5.3 Zielrückkehrflüge
+
+Bei einem geschlossenen DMSt-Zielrückkehrflug wird ein zusätzlicher Bonus von 30% für eine Strecke vom Abflugpunkt über einen Wendepunkt zurück zum Zielpunkt addiert.
+
+##### 4.1.5.4 Mehrfachumrundungen
+
+Bei einer Mehrfachumrundung von Dreiecks- ([4.1.5.1](#triangle)) und Vierecksflügen ([4.1.5.2](#rectangle)) wird ein zusätzlicher Bonus von 20% addiert. Es sind maximal drei Umrundungen zugelassen. Ein weiterer Bonus für den Dreiecksflug gemäß [4.1.5.1](#triangle) oder Vierecksflug gemäß [4.1.5.2](#rectangle) wird nicht berücksichtigt. Die Anzahl der Umrundungen ist nach [4.1.1](#declared_scoring) bei der Deklaration der Aufgabe als Aneinanderreihung der Wendepunkte vorab zu berücksichtigen.
+Freie Mehrfachumrundungen sind nicht für die Wertung zugelassen.
+
+### <a name="speed_scoring"></a> 4.2 Geschwindigkeitswertung
+
+Aus dem aufgezeichneten Flugweg wird für die Geschwindigkeitswertung die größtmögliche Geschwindigkeitsstrecke in Kilometer (km) über maximal zwei Wendepunkte und maximal drei Schenkel über einen Zeitraum von maximal 120 Minuten im Segelflug ohne Motorunterstützung bestimmt.
+Die Abflughöhe zur Ermittlung der Geschwindigkeitsstrecke darf nicht höher als die Ankunftshöhe sein.
+Die Geschwindigkeitspunkte ergeben sich aus der Geschwindigkeitsstrecke korrigiert um den DAeC Index mit einer 75% Gewichtung gemäß folgender Formel:
 
 ## 5 Zusätzliche Regeln für Motorsegler
 
- Der Motorsegler muss einen Flugrekorder mit betriebsbereitem
-Antriebslaufzeitenschreiber (ENL) gemäß Sporting Code Sektion 3 mitführen. Bei
-Benutzung des Antriebs zwischen Abflug und Erreichen des End-/Zielpunktes wird
-der Flug nur bis zur letzten, nachweislich ohne Antriebsunterstützung
-erreichten, Koordinate gewertet.
+Der Motorsegler muss einen Flugrekorder mit einem für das Motorsystem geeignetem Antriebslaufzeitenschreiber gemäß Sporting Code Sektion 3 mitführen.
 
-**Bemerkung:** Das Kollisionswarngerät FLARM in den Baureihen, die keine
-IGC-Zulassung haben, darf nur für die Dokumentation von freien Flügen verwendet
-werden.
+## 6 Error Codes
+
+Die Überprüfung der Flüge erfolgt auf Basis der beim Provider WeGlide hinterlegten [Error Codes](https://docs.weglide.org/docs/contests/errors/).
