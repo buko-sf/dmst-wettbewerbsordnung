@@ -6,7 +6,7 @@
   "repository": "git@github.com:buko-sf/dmst-wettbewerbsordnung.git",
   "author": "Tobias Bieniek <tobias.bieniek@gmail.com>",
   "devDependencies": {
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "normalize.css": "^8.0.1",
     "puppeteer": "^2.1.1"
   }
